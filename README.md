@@ -108,6 +108,11 @@ Through this project I learned:
 
 ---
 
+Live demo link:
+https://nikithakalyaniparepalli16.github.io/task-2-nikithakalyaniparepalli/
+
+---
+
 ## 👨‍💻 Developer
 
 Developed by: **Nikitha Kalyani Parepalli**
